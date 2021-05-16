@@ -34,7 +34,7 @@
     {
         "_id": 5,
         "name": "Employee Directory",
-        "desc": "A React App that will allow users to able to view their entire employee directory at once so that they can have quick access to their information",
+        "desc": "An app that will allow users to able to view their entire employee directory at once to easily access each employee's info",
         "git_url": "https://github.com/Karen-O94/Employee-Directory",
         "app_url": "https://karen-o94.github.io/Employee-Directory/",
         "thumbnail": "https://github.com/Karen-O94/responsive-portfolio/blob/main/img/Employee%20Directory.gif?raw=true"
@@ -42,7 +42,7 @@
     {
         "_id": 6,
         "name": "Work Day Planner",
-        "desc": "Day Planner allows users to save present, future or past events for each hour of the work day from 9am to 5pm. This app makes use of the Moment.js library for dates and time information",
+        "desc": "Day Planner allows users to save present, future or past events for each hour of the work day from 9am to 5pm.",
         "git_url": "https://github.com/Karen-O94/Work-Day-Planner/",
         "app_url": "https://karen-o94.github.io/Work-Day-Planner/",
         "thumbnail":"https://github.com/Karen-O94/responsive-portfolio/blob/main/img/Work%20Day%20Scheduler.gif?raw=true"
