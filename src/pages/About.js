@@ -3,6 +3,11 @@ import Hero from "../components/Hero";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
+import linkedinicon from "../img/linkedinicon.png";
+import githubicon from "../img/GitHub-Mark-64px.png";
+import phoneicon from "../img/phone.png";
+import resumeicon from "../img/resume-and-cv.png";
+import emailicon from "../img/email.png"
 
 function About() {
   return (
@@ -27,27 +32,27 @@ function About() {
             <p className="social">Feel free to check out my GitHub and LinkedIn profiles by clicking the icons below: </p>
         <ul className="social-icons">
           <li>
-            <a href="https://github.com/Karen-O94" target="_blank"><img> id="github-icon" src="img/GitHub-Mark-64px.png" width="50px" height="54px"</img>
+            <a href="https://github.com/Karen-O94" target="_blank" rel="noreferrer"><img className="github-icon" src={githubicon} alt="" style={{width:50, height: 54}}/>
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/karen-opoku-3b4581133/" target="_blank"><img>id="linkedin-icon"
-                src="img/linkedinicon.png" width="50px" height="54px"</img> 
+            <a href="https://www.linkedin.com/in/karen-opoku-3b4581133/" target="_blank" rel="noreferrer"><img className="linkedin-icon" alt="linkedin icon"
+                src={linkedinicon} style={{width: 50, height: 54}}/> 
             </a>
           </li>
         </ul>
 
-        <p style="margin-bottom: 0px;">Contact Links</p>
+        <p style={{marginBottom: 0}}>Contact Links</p>
         <ul className="contact-links">
           <li>
-            <img src="img/email.png" class="email-icon" width="40px" height="44px"></img>
-            <a href="mailto:karenyaa@live.co.uk" class="email" target="_blank">karenyaa@live.co.uk</a>
+            <img src={emailicon} alt="" className="email-icon" style={{ width: 40, height: 44}}></img>
+            <a href="mailto:karenyaa@live.co.uk" className="email" rel="noreferrer" target="_blank">karenyaa@live.co.uk</a>
           </li>
           <li>
-            <img src="img/phone.png" width="40px" height="38px" style="margin-bottom: 2px;"></img><span class="phone"> 079 XXXX XXXX</span>
+            <img src={phoneicon} alt="" style={{marginBottom: 2, width: 40, height: 38}}></img><span class="phone"> 079 XXXX XXXX</span>
           </li>
           <li>
-            <img src="img/resume-and-cv.png" width="40px" height="38px" style="margin-bottom: 2px;"></img><a href="https://docs.google.com/document/d/1lxsyG0mFL2IT55qlsz7lis0yRII_Au9o8sQSZ9yzThE/edit?usp=sharing" class="resume"target="_blank">Curriculum Vitae/Resume</a>
+            <img src={resumeicon} alt="" style={{marginBottom: 2, width: 40, height: 38}}></img><a href="https://docs.google.com/document/d/1lxsyG0mFL2IT55qlsz7lis0yRII_Au9o8sQSZ9yzThE/edit?usp=sharing" rel="noreferrer" class="resume"target="_blank">Curriculum Vitae/Resume</a>
           </li>
         </ul>
           </Col>
