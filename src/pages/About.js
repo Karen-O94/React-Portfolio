@@ -13,7 +13,7 @@ import profileimg from "../img/FirstSept2020.jpg";
 function About() {
     return (
         <div>
-            <Container style={{ marginTop: 30 }}>
+            <Container>
             <div className="px-5" style={{backgroundColor: "#D3D3D3", color: "black", fontSize: 25}}>
                 <Row>
                     <Col size="md-12">
