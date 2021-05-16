@@ -8,17 +8,16 @@ import githubicon from "../img/GitHub-Mark-64px.png";
 import phoneicon from "../img/phone.png";
 import resumeicon from "../img/resume-and-cv.png";
 import emailicon from "../img/email.png";
-import profileimg from "../img/1stSept2020.png";
+import profileimg from "../img/FirstSept2020.jpg";
 
 function About() {
   return (
     <div>
       <Hero backgroundImage="https://images.unsplash.com/photo-1500246432024-efe3c9116a56?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80">
         <br></br>
-        <img src={profileimg} className="rounded-circle mx-auto d-block" alt="profile picture" width="200"
-        height="220" style="border: solid white">
-        <h1>Karen Opoku</h1>
-        <p className="lead">Full Stack Web Developer</p>
+        <img src={profileimg} className="rounded-circle mx-auto d-block" alt="profile" style={{width: 200, height: 220 ,border: "solid white"}}/>
+        <h1 className="display-4">Karen Opoku</h1>
+        <h2 className="lead" style={{color: "white", fontSize: 40}}>Full Stack Web Developer</h2>
       </Hero>
       <Container style={{ marginTop: 30 }}>
         <Row>
