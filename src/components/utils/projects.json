@@ -1,0 +1,50 @@
+[
+    {
+        "_id": 1,
+        "name": "Mouldy Potatoes",
+        "desc": "Mouldy Potatoes is a Movie review site that alows users to add, edit, delete reviews of any movie they have watched. There is also the option for users to comment on other reviews",
+        "git_url": "https://github.com/Karen-O94/mouldy-potatoes",
+        "app_url": "https://mouldy-potatoes.herokuapp.com/",
+        "thumbnail": "https://github.com/Karen-O94/responsive-portfolio/blob/main/img/AstroSearch.gif"
+    },
+    {
+        "_id": 2,
+        "name": "AstroSearch",
+        "desc": "Astrosearch allows users to gain up-to-date astronomical info and images including NASA's Picture of the Day when a date is selected as well as rise and set times of sun/moon.",
+        "git_url": "https://github.com/Karen-O94/UoB_BC_AstronomicalEventSearch/",
+        "app_url": "https://karen-o94.github.io/UoB_BC_AstronomicalEventSearch/",
+        "thumbnail": "https://github.com/Karen-O94/responsive-portfolio/blob/main/img/Mouldy%20Potatoes.gif"
+    },
+    {
+        "_id": 3,
+        "name": "Weather Dashboard",
+        "desc": "The Weather Dashboard allows users to see current weather and 5 day forecast of a city of their choice. This app makes use of the OpenWeather API to retrieve weather information",
+        "git_url": "https://github.com/Karen-O94/Weather-Dashboard/",
+        "app_url": "https://karen-o94.github.io/Weather-Dashboard/",
+        "thumbnail": "https://github.com/Karen-O94/responsive-portfolio/blob/main/img/Weather%20Dashboard.gif"
+    },
+    {
+        "_id": 4,
+        "name": "Fitness Tracker",
+        "desc": "The Fitness tracker allows users to create their workouts and track their progress throughout the day or week",
+        "git_url": "https://github.com/Karen-O94/Workout-Tracker",
+        "app_url": "https://uob-fitness-tracker.herokuapp.com/?id=60a0fcff5ab5570015558178",
+        "thumbnail": "https://github.com/Karen-O94/responsive-portfolio/blob/main/img/Fitness%20Tracker.gif"
+    },
+    {
+        "_id": 5,
+        "name": "Employee Directory",
+        "desc": "A React App that will allow users to able to view their entire employee directory at once so that they can have quick access to their information",
+        "git_url": "https://github.com/Karen-O94/Employee-Directory",
+        "app_url": "https://karen-o94.github.io/Employee-Directory/",
+        "thumbnail": "https://github.com/Karen-O94/responsive-portfolio/blob/main/img/Employee%20Directory.gif"
+    },
+    {
+        "_id": 6,
+        "name": "Work Day Planner",
+        "desc": "Day Planner allows users to save present, future or past events for each hour of the work day from 9am to 5pm. This app makes use of the Moment.js library for dates and time information",
+        "git_url": "https://github.com/Karen-O94/Work-Day-Planner/",
+        "app_url": "https://karen-o94.github.io/Work-Day-Planner/",
+        "thumbnail":"https://github.com/Karen-O94/responsive-portfolio/blob/main/img/Work%20Day%20Scheduler.gif"
+    }
+]
