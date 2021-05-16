@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.95cf8516.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.78fb3bc2.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.78fb3bc2.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.b0508620.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.b0508620.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/React-Portfolio/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.028447e5.chunk.js": "/React-Portfolio/static/js/2.028447e5.chunk.js",
+    "static/js/2.028447e5.chunk.js.map": "/React-Portfolio/static/js/2.028447e5.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/React-Portfolio/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.95cf8516.chunk.css.map": "/React-Portfolio/static/css/main.95cf8516.chunk.css.map",
+    "static/js/2.028447e5.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.028447e5.chunk.js.LICENSE.txt",
+    "static/media/FirstSept2020.a4a6d517.jpg": "/React-Portfolio/static/media/FirstSept2020.a4a6d517.jpg",
+    "static/media/email.55842c42.png": "/React-Portfolio/static/media/email.55842c42.png",
+    "static/media/image26669.a5ec7f33.jpg": "/React-Portfolio/static/media/image26669.a5ec7f33.jpg",
+    "static/media/linkedinicon.4d96b610.png": "/React-Portfolio/static/media/linkedinicon.4d96b610.png",
+    "static/media/phone.a272f42b.png": "/React-Portfolio/static/media/phone.a272f42b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0508620.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.028447e5.chunk.js",
+    "static/css/main.95cf8516.chunk.css",
+    "static/js/main.78fb3bc2.chunk.js"
+  ]
+}
