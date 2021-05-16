@@ -7,19 +7,23 @@ import linkedinicon from "../img/linkedinicon.png";
 import githubicon from "../img/GitHub-Mark-64px.png";
 import phoneicon from "../img/phone.png";
 import resumeicon from "../img/resume-and-cv.png";
-import emailicon from "../img/email.png"
+import emailicon from "../img/email.png";
+import profileimg from "../img/1stSept2020.png";
 
 function About() {
   return (
     <div>
       <Hero backgroundImage="https://images.unsplash.com/photo-1500246432024-efe3c9116a56?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80">
-        <h1>Karen O</h1>
-        <p class="lead">Full Stack Web Developer</p>
+        <br></br>
+        <img src={profileimg} className="rounded-circle mx-auto d-block" alt="profile picture" width="200"
+        height="220" style="border: solid white">
+        <h1>Karen Opoku</h1>
+        <p className="lead">Full Stack Web Developer</p>
       </Hero>
       <Container style={{ marginTop: 30 }}>
         <Row>
           <Col size="md-12">
-            <h1>Karen Opoku!</h1>
+            <h1>Hi my name is Karen!</h1>
           </Col>
         </Row>
         <Row>
