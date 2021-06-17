@@ -1,6 +1,14 @@
 [
     {
         "_id": 1,
+        "name": "Music To My Eyes",
+        "desc": "A full stack MERN dating app that allows users to create profiles, add songs to their music playlist and match with others based on similar characteristics and music taste!",
+        "git_url": "https://github.com/Karen-O94/music-to-my-eyes",
+        "app_url": "https://music-to-my-eyes.herokuapp.com/",
+        "thumbnail": "https://github.com/Karen-O94/responsive-portfolio/blob/main/assets/Music%20to%20My%20Eyes.gif?raw=true"
+    },
+    {
+        "_id": 2,
         "name": "Mouldy Potatoes",
         "desc": "Mouldy Potatoes is a Movie review site that alows users to add, edit, delete reviews of any movie they have watched. There is also the option for users to comment on other reviews",
         "git_url": "https://github.com/Karen-O94/mouldy-potatoes",
@@ -8,7 +16,7 @@
         "thumbnail": "https://github.com/Karen-O94/responsive-portfolio/blob/main/img/Mouldy%20Potatoes.gif?raw=true"
     },
     {
-        "_id": 2,
+        "_id": 3,
         "name": "AstroSearch",
         "desc": "Astrosearch allows users to gain up-to-date astronomical info and images including NASA's Picture of the Day when a date is selected as well as rise and set times of sun/moon.",
         "git_url": "https://github.com/Karen-O94/UoB_BC_AstronomicalEventSearch/",
@@ -16,7 +24,7 @@
         "thumbnail": "https://github.com/Karen-O94/responsive-portfolio/blob/main/img/AstroSearch.gif?raw=true"
     },
     {
-        "_id": 3,
+        "_id": 4,
         "name": "Weather Dashboard",
         "desc": "The Weather Dashboard allows users to see current weather and 5 day forecast of a city of their choice. This app makes use of the OpenWeather API to retrieve weather information",
         "git_url": "https://github.com/Karen-O94/Weather-Dashboard/",
@@ -24,7 +32,7 @@
         "thumbnail": "https://github.com/Karen-O94/responsive-portfolio/blob/main/img/Weather%20Dashboard.gif?raw=true"
     },
     {
-        "_id": 4,
+        "_id": 5,
         "name": "Fitness Tracker",
         "desc": "The Fitness tracker allows users to create their workouts and track their progress throughout the day or week",
         "git_url": "https://github.com/Karen-O94/Workout-Tracker",
@@ -32,7 +40,7 @@
         "thumbnail": "https://github.com/Karen-O94/responsive-portfolio/blob/main/img/Fitness%20Tracker.gif?raw=true"
     },
     {
-        "_id": 5,
+        "_id": 6,
         "name": "Employee Directory",
         "desc": "An app that will allow users to able to view their entire employee directory at once to easily access each employee's info",
         "git_url": "https://github.com/Karen-O94/Employee-Directory",
@@ -40,7 +48,7 @@
         "thumbnail": "https://github.com/Karen-O94/responsive-portfolio/blob/main/img/Employee%20Directory.gif?raw=true"
     },
     {
-        "_id": 6,
+        "_id": 7,
         "name": "Google Books Search",
         "desc": "A MERN app that allows users to search books using Google API and they can save them to their favourites.",
         "git_url": "https://github.com/Karen-O94/Google-Books-Search",
